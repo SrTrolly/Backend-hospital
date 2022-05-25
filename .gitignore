@@ -1,0 +1,13 @@
+node_modules/
+uploads/hospitales/**.jpg
+uploads/hospitales/**.gif
+uploads/hospitales/**.png
+
+uploads/doctores/**.jpg
+uploads/doctores/**.gif
+uploads/doctores/**.png
+
+uploads/usuarios/**.jpg
+uploads/usuarios/**.gif
+uploads/usuarios/**.png
+.env    
